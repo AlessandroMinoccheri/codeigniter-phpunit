@@ -652,3 +652,4 @@ class CI_URI {
 
 /* End of file URI.php */
 /* Location: ./system/core/URI.php */
+?>
